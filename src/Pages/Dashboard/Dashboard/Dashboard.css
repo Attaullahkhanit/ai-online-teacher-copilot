@@ -1,0 +1,34 @@
+.nav-pills li .dashboardmenulink:hover{
+    background-color: #ff9900;
+    color: 'white';
+}
+.nav-pills li button:hover{
+    background-color: #ff9900;
+    color: 'white';
+}
+.nav-pills li button:focus{
+    background-color: #ff9900;
+    color: 'white';
+}
+.nav-pills li .dashboardmenulink:focus{
+    background-color: #ff9900;
+    color: 'white';
+}
+/* .menu-item {
+    height: 100vh;
+} */
+
+.nav-pills li .menuitemfont{
+    font-size: 14px;
+}
+
+.upgradbottom {
+    margin-top: 30%;
+}
+.menu-item a:focus{
+    background-color: #ff9900;
+    color: white;
+}
+
+
+
